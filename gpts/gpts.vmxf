@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 8c f3 83 e6 14 8a 4c-39 8b ce 10 55 91 d0 45</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">gpts.vmx</vmxPathName></VM></Foundry>

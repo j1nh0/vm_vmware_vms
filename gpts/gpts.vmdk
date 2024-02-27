@@ -1,0 +1,20 @@
+# Disk DescriptorFile
+version=1
+encoding="UTF-8"
+CID=fffffffe
+parentCID=ffffffff
+createType="monolithicFlat"
+
+# Extent description
+RW 208896 FLAT "gpts-flat.vmdk" 0
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "102"
+ddb.geometry.heads = "64"
+ddb.geometry.sectors = "32"
+ddb.longContentID = "8835a0e120b64b084dc3186afffffffe"
+ddb.uuid = "60 00 C2 92 db 08 7d a3-9c 80 e9 60 7e 63 fe 32"
+ddb.virtualHWVersion = "20"
